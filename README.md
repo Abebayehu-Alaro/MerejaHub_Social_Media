@@ -13,7 +13,7 @@ Anyone can post short messages for anyone who follows him/her on MerejaHub, with
 - You can post using # tag and search for # tag. 
 Generally, you can do anything with MerejaHub as the popular social media like FB, Twitter or something else.
 # MerejaHub Demo  
-/assets/images/MerejaHub Demo.png
+![](MerejaHub%20Demo.PNG)
 ## If you need any web applications, you can reach me with
 - Email: abebayehualaro1@gmail.com 
 - Phone: +251964387251
