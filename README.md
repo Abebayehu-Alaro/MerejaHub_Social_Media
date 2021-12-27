@@ -11,6 +11,7 @@ Anyone can post short messages for anyone who follows him/her on MerejaHub, with
 - You can search for the posts
 - You can post using # tag and search for # tag. 
 Generally, you can do anything with MerejaHub as the popular social media like FB, Twitter or something else.
-## You can communicate with me to develop any web applications
+## If you need any web applications, you can reach me with
 - Email: abebayehualaro1@gmail.com 
 - Phone: +251964387251
+### I am open to work
