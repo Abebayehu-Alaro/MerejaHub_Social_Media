@@ -1,5 +1,5 @@
 # MerejaHub_Social_Media
-MerejaHub is an online news and social networking site where people communicate in short messages. 
+**MerejaHub** is an online news and social networking site where people communicate in short messages. 
 Anyone can post short messages for anyone who follows him/her on MerejaHub, with the hope that his/her words are useful and interesting to someone in him/her audience. 
 
 **MerejaHub** is developed by **Abebayehu Alaro** using Django framework and front web technologies like bootstrap and javascript libraries. 
